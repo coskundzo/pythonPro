@@ -7,3 +7,5 @@ if anahtarkelime in sozluk.keys():
     print("yazdığınız kelimenin anlamı: ",sozluk[anahtarkelime])
 else:
     print("bulamadım")
+#dkjnfhdjfjdnjfvnjfdnvgfn
+#cnbvcbvv jfhn bhjfg 
