@@ -8,3 +8,5 @@ if anahtarkelime in sozluk.keys():
 else:
     print("bulamadım")
 
+##selam python
+
